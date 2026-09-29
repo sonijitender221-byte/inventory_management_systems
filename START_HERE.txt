@@ -1,0 +1,11 @@
+STOCKDESK - START HERE
+
+1) Make sure MongoDB is running locally.
+2) Double-click run-backend.bat
+3) Double-click run-frontend.bat
+4) Open http://localhost:5173
+5) On the first launch create your admin account.
+
+If MongoDB is not installed locally, edit backend/.env and put your MongoDB Atlas MONGO_URI there.
+
+For manual commands see README.md.
